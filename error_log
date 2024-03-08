@@ -1,0 +1,12 @@
+[06-Mar-2024 12:26:32 UTC] PHP Notice:  Undefined index: name in /home/sourceco/public_html/brand/hassan/academic-brand/signup.php on line 3
+[06-Mar-2024 12:26:32 UTC] PHP Notice:  Undefined index: message in /home/sourceco/public_html/brand/hassan/academic-brand/signup.php on line 7
+[06-Mar-2024 12:31:06 UTC] PHP Notice:  Undefined index: message in /home/sourceco/public_html/brand/hassan/academic-brand/signup.php on line 7
+[06-Mar-2024 16:53:15 UTC] PHP Notice:  Undefined index: name in /home/sourceco/public_html/brand/hassan/academic-brand/signup.php on line 3
+[06-Mar-2024 16:53:15 UTC] PHP Notice:  Undefined index: message in /home/sourceco/public_html/brand/hassan/academic-brand/signup.php on line 7
+[08-Mar-2024 20:20:10 UTC] PHP Warning:  Undefined array key "message" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 7
+[08-Mar-2024 20:20:38 UTC] PHP Warning:  Undefined array key "message" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 7
+[08-Mar-2024 20:20:55 UTC] PHP Warning:  Undefined array key "name" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 3
+[08-Mar-2024 20:20:55 UTC] PHP Warning:  Undefined array key "phone" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 5
+[08-Mar-2024 20:20:55 UTC] PHP Warning:  Undefined array key "service" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 6
+[08-Mar-2024 20:20:55 UTC] PHP Warning:  Undefined array key "message" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 7
+[08-Mar-2024 20:21:27 UTC] PHP Warning:  Undefined array key "message" in /home/quickstu/assignmentdoers.co.uk/signup.php on line 7

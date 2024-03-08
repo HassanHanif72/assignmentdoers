@@ -1,0 +1,227 @@
+/* For Google Chrome (125% zoom level) */
+@media screen and (-webkit-min-device-pixel-ratio: 1.25),
+  screen and (min-resolution: 120dpi) {
+}
+
+@media (min-width: 1280px) and (max-width: 1366px) {
+  .about-us .right .right-inner {
+    bottom: 0px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .btn {
+    padding: 10px 12px;
+    font-size: 14px;
+  }
+  .about-us .right .right-inner {
+    bottom: -10px;
+  }
+  .about-us .left .about-inner {
+    display: block;
+  }
+  .about-us .left .about-inner img {
+    width: 100%;
+  }
+  .about-us .left .about-inner .list {
+    margin-top: 20px;
+  }
+  .top-section {
+    padding-top: 115px;
+  }
+  .get-quote .left-col .contact-info {
+    display: block;
+  }
+  .get-quote .left-col .contact-info .contact-inner {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .top-banner .left-col::after {
+    display: none;
+  }
+  .top-banner .left-col h1 {
+    font-size: 35px;
+  }
+  .process-sec .process-body .process-inner {
+    width: calc(49.333% - 8px);
+  }
+  .process-sec .process-body {
+    justify-content: space-around;
+  }
+  .process-sec .process-body .process-inner {
+    margin-bottom: 20px;
+  }
+  .testimonials-sec .testi-body .testi-box {
+    width: calc(49.333% - 8px);
+  }
+  .testimonials-sec .testi-body {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .get-quote .right-col {
+    margin-top: 20px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .social > p > a {
+    margin: 0 5px 20px;
+    display: inline-block;
+  }
+  .footer-links > ul > li {
+    justify-content: center;
+  }
+  .btnsec {
+    text-align: center;
+  }
+  .about-us .left .about-inner img {
+    width: 100%;
+  }
+  .top-banner {
+    background: #4632da;
+  }
+  .top-section .center-heading h1 {
+    font-size: 35px;
+  }
+  .top-section {
+    padding-top: 115px;
+  }
+  .btn {
+    padding: 10px 12px;
+    font-size: 12px;
+  }
+  .get-quote .left-col h3 {
+    font-size: 35px;
+  }
+  .thank-you h1{
+    font-size: 40px;
+}
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .thank-you h1{
+    font-size: 30px;
+}
+  .top-banner .left-col h1 {
+    font-size: 30px;
+  }
+  .top-banner .left-col::after {
+    display: none;
+  }
+  .top-banner {
+    background: #4632da;
+  }
+  .btn {
+    padding: 10px 7px;
+    font-size: 12px;
+  }
+  .top-banner .right-col h2 {
+    font-size: 30px;
+  }
+  .about-us .left > h3 {
+    font-size: 28px;
+  }
+  .about-us .left .about-inner {
+    display: block;
+  }
+  .about-us .left .about-inner .list {
+    margin-top: 20px;
+  }
+  .about-us .right .right-inner {
+    width: 100%;
+    position: initial;
+  }
+  .our-services .left > h3 {
+    font-size: 28px;
+  }
+  .why-choose-us .center-heading > h3 {
+    font-size: 28px;
+  }
+  .why-choose-us .box-body {
+    display: block;
+  }
+  .why-choose-us .box-body .box-inner {
+    width: 100%;
+    margin-bottom: 20px;
+    display: block;
+    text-align: center;
+  }
+  .why-choose-us .box-body .box-inner h4 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .process-banner-sec .center-heading > h3 {
+    font-size: 28px;
+  }
+  .process-sec .process-body {
+    display: block;
+  }
+  .process-sec .process-body .process-inner {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .why-choose-us {
+    padding-top: 35px;
+    padding-bottom: 20px;
+  }
+  .testimonials-sec .left > h3 {
+    font-size: 28px;
+  }
+  .testimonials-sec .testi-body {
+    display: block;
+  }
+  .testimonials-sec .testi-body .testi-box {
+    width: 100%;
+  }
+  .process-sec {
+    padding-bottom: 10px;
+  }
+  .faqs .center-heading > h3 {
+    font-size: 28px;
+  }
+  .faqs .faqs-box h4 button {
+    font-size: 16px;
+  }
+  .expert-sec .left > h3 {
+    font-size: 28px;
+  }
+  .blog-sec .center-heading > h3 {
+    font-size: 28px;
+  }
+  .get-quote .left-col h3 {
+    font-size: 30px;
+  }
+  .get-quote .left-col .contact-info {
+    display: block;
+  }
+  .get-quote .left-col .contact-info .contact-inner {
+    margin-bottom: 20px;
+  }
+  .get-quote .right-col {
+    margin-top: 20px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .social > p > a {
+    margin: 0 5px 20px;
+    display: inline-block;
+  }
+  .footer-links > ul > li {
+    justify-content: center;
+  }
+  .btnsec {
+    text-align: center;
+  }
+  .about-us .left .about-inner img {
+    width: 100%;
+  }
+  .top-section .center-heading h1 {
+    font-size: 30px;
+  }
+  .top-section {
+    padding-top: 115px;
+  }
+}
